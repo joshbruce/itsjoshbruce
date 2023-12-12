@@ -1,3 +1,10 @@
+## Workshops
+
+|Date |Venue |Title |Link |
+|:---|:---|:---|:---|
+|20231027 |Internal |Scrum vs. Kanban: Fight! |n/a |
+|20231020 |Internal |Scrum vs. Kanban: Fight! |n/a |
+
 ## Appearances
 
 |Date |Venue |Title |Link |
