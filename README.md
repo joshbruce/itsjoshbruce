@@ -1,9 +1,10 @@
-## Workshops
+## Workshops & Training
 
-|Date |Venue |Title |Link |
-|:---|:---|:---|:---|
-|20231027 |Internal |Scrum vs. Kanban: Fight! |n/a |
-|20231020 |Internal |Scrum vs. Kanban: Fight! |n/a |
+- Scrum vs. Kanban: Fight!
+  - 20231027, Internal
+  - 20231020, Internal
+- Communication Hangman
+  - 201911, Internal
 
 ## Appearances
 
