@@ -10,7 +10,7 @@
 
 |Date |Venue |Title |Link |
 |:---|:--|:--|:--|
-|20240425 |Earnt and Invest |Where to Invest When Markets are Shaky |https://www.earnandinvest.com/episodes-8/where-to-invest-when-markets-are-shaky |
+|20240425 |Earn and Invest |Where to Invest When Markets are Shaky |https://www.earnandinvest.com/episodes-8/where-to-invest-when-markets-are-shaky |
 |20240203 |Humans of Fuzia |Navigating the Code of Success: An Odyssey from Fine Arts to Software Development and Entrepreneurship |https://www.humansoffuzia.com/navigating-the-code-of-success-an-odyssey-from-fine-arts-to-software-development-and-entrepreneurship/ |
 |20231211 |Meta-Cast |The Power of Labels |https://meta-cast.com/episode/the-power-of-labels-in-agile-teams |
 |20180911 |REI Systems Agile Meetup |Speed vs Agility talk |https://youtu.be/jeX4fan9xHI |
